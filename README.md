@@ -122,7 +122,7 @@ https://chromedriver.chromium.org/downloads<br>
 <b>Exemplo:</b><br>
  ```bash
 cd driver
-curl https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_linux64.zip
+curl https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_win32.zip
 unzip chromedriver_win32.zip
 rm -rf chromedriver_win32.zip
 cd ../driver
