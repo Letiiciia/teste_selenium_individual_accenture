@@ -1,17 +1,13 @@
 # Teste fomulários site Tricentis <br>
 ### Autora
 ---
-
 <a href="https://www.linkedin.com/in/leticia-flima/">
- <img style="border-radius: 50%;" src="[C:\Users\Letícia\Desktop\QA\ativididadeAccenture\img](https://github.com/Letiiciia/teste_selenium_individual_accenture/blob/master/img/LETICIA%20FERREIRA%20LIMA.JPG?raw=true)" width="100px;" alt=""/>
+ <img src="https://github.com/Letiiciia/teste_selenium_individual_accenture/blob/master/img/LETICIA%20FERREIRA%20LIMA.JPG" height="50%" width ="50%">
+</p>
  <br />
  <sub><b>Letícia Lima</b></sub></a> <a >🚀</a>
 
-
 Feito com ❤️ por Letícia 👋🏽 Accenture me contrata!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-flima/)](https://www.linkedin.com/in/leticia-flima/) 
-[![Gmail Badge](https://img.shields.io/badge/-leticialimaferreira2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=Le:leticialimaferreira2@gmail.com)](Le:leticialimaferreira2@gmail.com)
 
 # Descrição do projeto em selenium webdrive (java) e cucumber usando Page objects
 ### 5 cenários distribuídos em 5 arquivos de casos de teste<br>
