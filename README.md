@@ -1,7 +1,17 @@
 # Teste fomulários site Tricentis <br>
-<ul>
-  <li>Letícia Lima</li>
-</ul>
+### Autora
+---
+
+<a href="https://www.linkedin.com/in/leticia-flima/">
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Letícia Lima</b></sub></a> <a >🚀</a>
+
+
+Feito com ❤️ por Letícia 👋🏽 Accenture me contrata!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-flima/)](https://www.linkedin.com/in/leticia-flima/) 
+[![Gmail Badge](https://img.shields.io/badge/-leticialimaferreira2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=Le:leticialimaferreira2@gmail.com)](Le:leticialimaferreira2@gmail.com)
 
 # Descrição do projeto em selenium webdrive (java) e cucumber usando Page objects
 ### 5 cenários distribuídos em 5 arquivos de casos de teste<br>
