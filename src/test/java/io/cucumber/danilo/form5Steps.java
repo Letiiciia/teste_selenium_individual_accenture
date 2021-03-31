@@ -61,5 +61,6 @@ public class form5Steps {
 		Thread.sleep(9000);
 		WebElement input = Configuracoes.browser.findElement(By.cssSelector("h2"));
 		assertTrue(input.isDisplayed());
+		Configuracoes.fechar();
 	}
 }
