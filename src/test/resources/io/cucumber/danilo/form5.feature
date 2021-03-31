@@ -10,4 +10,5 @@ Funcionalidade: Acessar os formularios da Tricentis
     E seleciono Password e digito "Lele123"
     E seleciono Confirm Password e digito "Lele123"
     E seleciono Comments e digito "Aguardo um retorno imediato"
-    Entao devo clicar em Send
+    E devo clicar em Send
+    Entao ver a mensagem "Sending e-mail success!"
