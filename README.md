@@ -2,7 +2,7 @@
 ### Autora
 ---
 <a href="https://www.linkedin.com/in/leticia-flima/">
- <img src="https://github.com/Letiiciia/teste_selenium_individual_accenture/blob/master/img/LETICIA%20FERREIRA%20LIMA.JPG" height="50%" width ="50%">
+ <img src="https://github.com/Letiiciia/teste_selenium_individual_accenture/blob/master/img/LETICIA%20FERREIRA%20LIMA.JPG" height="25%" width ="25%">
 </p>
  <br />
  <sub><b>Letícia Lima</b></sub></a> <a >🚀</a>
