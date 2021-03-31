@@ -4,15 +4,12 @@
 </ul>
 
 # Descrição do projeto em selenium webdrive (java) e cucumber usando Page objects
-### 5 cenários distribuídos em 5 arquivos de casos de teste
+### 5 cenários distribuídos em 5 arquivos de casos de teste<br>
 ### Caso de teste 1
 Acessar os formularios da Tricentis<br>
 Criando uma rotina de teste para validar o site Tricentis<br>
 
 <b>Cenário</b>: Acessar e preencher o primeiro formulario do site <br>
-Dado que eu estou no site "http://sampleapp.tricentis.com/101/app.php"<br>
-
-<b>Cenário</b>: Configurações do cookie<br>
 Dado que eu estou no site "http://sampleapp.tricentis.com/101/app.php"<br>
 E seleciono Make e clico em "Audi"<br>
 E seleciono Model e clico em "Scooter"<br>
