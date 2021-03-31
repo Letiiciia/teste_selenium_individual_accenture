@@ -168,7 +168,6 @@ test.bat
     |  |  |  |  |  |-- form3Step.java <br>
     |  |  |  |  |  |-- form4Step.java <br>
     |  |  |  |  |  |-- form5Step.java <br>
-    
     |  |  |  |  |
     
     |  |  |  | 
@@ -185,8 +184,11 @@ test.bat
     |  |  |  |  |  |-- form4.feature <br>
     |  |  |  |  |  |-- form5.feature <br>
     |  |  |  |  |
+    
     |  |  |  | 
+    
     |  |  |
+    
   test.bat -- Arquivo para rodar teste no Windows<br>
   test.sh -- Arquivo para rodar teste no Unix<br>
 </pre>
