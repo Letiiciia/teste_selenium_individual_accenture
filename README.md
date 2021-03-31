@@ -3,7 +3,7 @@
 ---
 
 <a href="https://www.linkedin.com/in/leticia-flima/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="[C:\Users\Letícia\Desktop\QA\ativididadeAccenture\img](https://github.com/Letiiciia/teste_selenium_individual_accenture/blob/master/img/LETICIA%20FERREIRA%20LIMA.JPG?raw=true)" width="100px;" alt=""/>
  <br />
  <sub><b>Letícia Lima</b></sub></a> <a >🚀</a>
 
