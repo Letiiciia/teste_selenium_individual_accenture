@@ -54,6 +54,12 @@ E seleciono Courtesy Car e clico em "Yes" <br>
 Entao devo clicar em Next para o formulario Select Price Option<br><br>
 
 ### Caso de teste 4
+<b>Cenário</b>: Acessar e preencher o quarto formulario do site<br>
+Dado que eu estou no site da Trincentis no formulario "Select Price Option"<br>
+E seleciono Select Option o plano Gold<br>
+Entao devo clicar em Next para o formulario Send Quote<br><br>
+
+### Caso de teste 5
 
 <b>Cenário</b>: Acessar e preencher o quinto formulario do site<br>
 Dado que eu estou no site da Trincentis no formulario "Send Quota"<br>
@@ -166,6 +172,8 @@ test.bat
     |  |  |  |  |  |-- form4Step.java <br>
     |  |  |  |  |  |-- form5Step.java <br>
     |  |  |  |  |
+    |  |  |  | 
+    |  |  |
     |  |-- resources<br>
     |  |  |-- io<br>
     |  |  |  |-- cucumber<br>
@@ -176,6 +184,8 @@ test.bat
     |  |  |  |  |  |-- form4.feature <br>
     |  |  |  |  |  |-- form5.feature <br>
     |  |  |  |  |
+    |  |  |  | 
+    |  |  |
   test.bat -- Arquivo para rodar teste no Windows<br>
   test.sh -- Arquivo para rodar teste no Unix<br>
 </pre>
