@@ -2,7 +2,7 @@
 Funcionalidade: Acessar os formularios da Tricentis
   Criando uma rotina de teste para validar o site Tricentis
 
-  Cenario: Acessar e preencher o quarto formulario do site
+  Cenario: Acessar e preencher o quinto formulario do site
     Dado que eu estou no site da Trincentis no formulario "Send Quota"
     E seleciono E-mail e digito "leticialimaferreira@gmail.com"
     E seleciono Phone e digito "61996132589"
