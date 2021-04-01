@@ -1,11 +1,9 @@
 # Teste fomulários site Tricentis <br>
 ### Autora
 ---
-<a href="https://www.linkedin.com/in/leticia-flima/">
- <img src="https://github.com/Letiiciia/teste_selenium_individual_accenture/blob/master/img/LETICIA%20FERREIRA%20LIMA.JPG" height="25%" width ="25%">
-</p>
- <br />
- <sub><b>Letícia Lima</b></sub></a> <a >🚀</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Letícia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-flima/)](https://www.linkedin.com/in/leticia-flima/) 
+
+ <sub><b><strong>Letícia Lima</strong></b></sub></a> <a >🚀</a>
 
 Feito com ❤️ por Letícia 👋🏽 Accenture me contrata!
 
