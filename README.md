@@ -1,9 +1,8 @@
 # Teste fomulários site Tricentis <br>
 ### Autora
+ <sub><b><strong>Letícia Lima</strong></b></sub></a> <a >🚀</a>
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-Letícia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-flima/)](https://www.linkedin.com/in/leticia-flima/) 
-
- <sub><b><strong>Letícia Lima</strong></b></sub></a> <a >🚀</a>
 
 Feito com ❤️ por Letícia 👋🏽 Accenture me contrata!
 
